@@ -1,0 +1,14 @@
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.AssemblyInfoInputs.cache
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.AssemblyInfo.cs
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.csproj.CoreCompileInputs.cache
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\bin\Debug\net8.0\desafio01.exe
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\bin\Debug\net8.0\desafio01.deps.json
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\bin\Debug\net8.0\desafio01.runtimeconfig.json
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\bin\Debug\net8.0\desafio01.dll
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\bin\Debug\net8.0\desafio01.pdb
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.dll
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\refint\desafio01.dll
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.pdb
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\desafio01.genruntimeconfig.cache
+E:\Curso\Projetos\Banco Pan\Desafio01\C#\obj\Debug\net8.0\ref\desafio01.dll
